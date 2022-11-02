@@ -1,0 +1,17 @@
+from pathlib import Path
+
+RED = (255, 0, 57)
+GREEN = (0, 216, 182)
+YELLOW = (255, 199, 66)
+SKY_BLUE = (193, 238, 246)
+TEXT_LIGHT = (114, 64, 90)
+TEXT_DARK = (22, 8, 5)
+PINK_SKY = (114, 64, 90)
+
+WINDOW_WIDTH = 600
+WINDOW_HEIGHT = 300
+PLAYING_HEIGHT = (WINDOW_HEIGHT//4)*3
+FRAME_RATE = 30
+
+BASEPATH = Path(__file__).resolve().parent
+COLORS = (RED, YELLOW, GREEN)
