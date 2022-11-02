@@ -10,8 +10,8 @@ I picked up a book on object oriented programming in python. The book used pygam
 
 ### Game
 
+Chosing your character menu
 ![alt-text](https://github.com/spencermitton/spooky-dodger/blob/main/readme-images/image1.png)
-[^1]: Chosing your character menu
 
+Game play
 ![alt-text](https://github.com/spencermitton/spooky-dodger/blob/main/readme-images/image2.png)
-[^2]: Game play
